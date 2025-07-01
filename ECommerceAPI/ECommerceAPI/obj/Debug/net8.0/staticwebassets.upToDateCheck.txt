@@ -1,0 +1,2 @@
+wwwroot\images\smartphone-x.jpg
+wwwroot\images\Bitirme_Odevi_Tez_Yazim_Sablonu.docx

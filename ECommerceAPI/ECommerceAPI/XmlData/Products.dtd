@@ -1,0 +1,11 @@
+﻿<!ELEMENT Products (Product*)>
+<!ELEMENT Product (Id, Name, Description, Price, CategoryId, ImageUrl, StockQuantity, Discount?, Tag*)>
+<!ELEMENT Id (#PCDATA)>
+<!ELEMENT Name (#PCDATA)>
+<!ELEMENT Description (#PCDATA)>
+<!ELEMENT Price (#PCDATA)>
+<!ELEMENT CategoryId (#PCDATA)>
+<!ELEMENT ImageUrl (#PCDATA)>
+<!ELEMENT StockQuantity (#PCDATA)>
+<!ELEMENT Discount (#PCDATA)>
+<!ELEMENT Tag (#PCDATA)>

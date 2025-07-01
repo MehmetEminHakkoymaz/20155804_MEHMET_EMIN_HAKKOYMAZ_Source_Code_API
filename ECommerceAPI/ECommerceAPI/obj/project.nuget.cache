@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "dgSpecHash": "sGqvHr+cOBU=",
+  "success": true,
+  "projectFilePath": "C:\\XMLFinal\\ECommerce\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mehak\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\8.0.17\\microsoft.aspnetcore.authentication.jwtbearer.8.0.17.nupkg.sha512",
+    "C:\\Users\\mehak\\.nuget\\packages\\microsoft.aspnetcore.mvc.versioning\\5.1.0\\microsoft.aspnetcore.mvc.versioning.5.1.0.nupkg.sha512",
+    "C:\\Users\\mehak\\.nuget\\packages\\microsoft.bcl.cryptography\\9.0.6\\microsoft.bcl.cryptography.9.0.6.nupkg.sha512",
+    "C:\\Users\\mehak\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\mehak\\.nuget\\packages\\microsoft.extensions.objectpool\\8.0.10\\microsoft.extensions.objectpool.8.0.10.nupkg.sha512",
+    "C:\\Users\\mehak\\.nuget\\packages\\microsoft.identitymodel.abstractions\\7.1.2\\microsoft.identitymodel.abstractions.7.1.2.nupkg.sha512",
+    "C:\\Users\\mehak\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\7.1.2\\microsoft.identitymodel.jsonwebtokens.7.1.2.nupkg.sha512",
+    "C:\\Users\\mehak\\.nuget\\packages\\microsoft.identitymodel.logging\\7.1.2\\microsoft.identitymodel.logging.7.1.2.nupkg.sha512",
+    "C:\\Users\\mehak\\.nuget\\packages\\microsoft.identitymodel.protocols\\7.1.2\\microsoft.identitymodel.protocols.7.1.2.nupkg.sha512",
+    "C:\\Users\\mehak\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\7.1.2\\microsoft.identitymodel.protocols.openidconnect.7.1.2.nupkg.sha512",
+    "C:\\Users\\mehak\\.nuget\\packages\\microsoft.identitymodel.tokens\\7.1.2\\microsoft.identitymodel.tokens.7.1.2.nupkg.sha512",
+    "C:\\Users\\mehak\\.nuget\\packages\\microsoft.openapi\\1.6.14\\microsoft.openapi.1.6.14.nupkg.sha512",
+    "C:\\Users\\mehak\\.nuget\\packages\\soapcore\\1.2.1.8\\soapcore.1.2.1.8.nupkg.sha512",
+    "C:\\Users\\mehak\\.nuget\\packages\\swashbuckle.aspnetcore\\6.6.2\\swashbuckle.aspnetcore.6.6.2.nupkg.sha512",
+    "C:\\Users\\mehak\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.6.2\\swashbuckle.aspnetcore.swagger.6.6.2.nupkg.sha512",
+    "C:\\Users\\mehak\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.6.2\\swashbuckle.aspnetcore.swaggergen.6.6.2.nupkg.sha512",
+    "C:\\Users\\mehak\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.6.2\\swashbuckle.aspnetcore.swaggerui.6.6.2.nupkg.sha512",
+    "C:\\Users\\mehak\\.nuget\\packages\\system.codedom\\9.0.2\\system.codedom.9.0.2.nupkg.sha512",
+    "C:\\Users\\mehak\\.nuget\\packages\\system.formats.asn1\\9.0.6\\system.formats.asn1.9.0.6.nupkg.sha512",
+    "C:\\Users\\mehak\\.nuget\\packages\\system.identitymodel.tokens.jwt\\7.1.2\\system.identitymodel.tokens.jwt.7.1.2.nupkg.sha512",
+    "C:\\Users\\mehak\\.nuget\\packages\\system.security.cryptography.pkcs\\9.0.6\\system.security.cryptography.pkcs.9.0.6.nupkg.sha512",
+    "C:\\Users\\mehak\\.nuget\\packages\\system.security.cryptography.xml\\9.0.6\\system.security.cryptography.xml.9.0.6.nupkg.sha512",
+    "C:\\Users\\mehak\\.nuget\\packages\\system.servicemodel.http\\8.1.2\\system.servicemodel.http.8.1.2.nupkg.sha512",
+    "C:\\Users\\mehak\\.nuget\\packages\\system.servicemodel.primitives\\8.1.2\\system.servicemodel.primitives.8.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

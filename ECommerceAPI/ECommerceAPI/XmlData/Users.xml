@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Users>
+  <User>
+    <Id>1</Id>
+    <Username>admin</Username>
+    <Email>admin@example.com</Email>
+    <PasswordHash>jZae727K08KaOmKSgOaGzww/XVqGr/PKEgIMkjrcbJI=</PasswordHash>
+    <Role>Admin</Role>
+  </User>
+  <User>
+    <Id>2</Id>
+    <Username>deneme</Username>
+    <Email>mehakoymaz@gmail.com</Email>
+    <PasswordHash>Ef4KnO0o3DVql0HNelYexTQW+iwz3ouX/z0QMzBWCOs=</PasswordHash>
+    <Role>User</Role>
+  </User>
+  <User>
+    <Id>3</Id>
+    <Username>adminn</Username>
+    <Email>mehakkoymaz@gmail.com</Email>
+    <PasswordHash>HoYbYcfsB1F+KEJ2Oo2DFjS82pkqJy+OvzCNN+9y7Yo=</PasswordHash>
+    <Role>Admin</Role>
+  </User>
+  <User>
+    <Id>4</Id>
+    <Username>sdffsd</Username>
+    <Email>sfdsfdfsd@gmail.com</Email>
+    <PasswordHash>vQn11iU09UpL2+5R69aMONp1xVyR54gTHqEtYqc/2F0=</PasswordHash>
+    <Role>User</Role>
+  </User>
+  <User>
+    <Id>5</Id>
+    <Username>asdsad</Username>
+    <Email>dasdasd@gmail.com</Email>
+    <PasswordHash>Z8SO5gtNDNZe9u/73pANd5b0tTEau9E/jNhgAogoK7c=</PasswordHash>
+    <Role>User</Role>
+  </User>
+  <User>
+    <Id>6</Id>
+    <Username>denemeeeeeee</Username>
+    <Email>denemedeneme@deneme.deneme</Email>
+    <PasswordHash>HoYbYcfsB1F+KEJ2Oo2DFjS82pkqJy+OvzCNN+9y7Yo=</PasswordHash>
+    <Role>User</Role>
+  </User>
+</Users>

@@ -1,0 +1,1488 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE Products SYSTEM "file:///C:/XMLFinal/ECommerce/ECommerceAPI/ECommerceAPI/XmlData/Products.dtd"[]>
+<!--"file:///C:/XMLFinal/ECommerce/ECommerceAPI/ECommerceAPI/XmlData/Products.dtd"-->
+<Products>
+  <Product>
+    <Id>1</Id>
+    <Name>Akıllı Telefon X</Name>
+    <Description>Gelişmiş özelliklere sahip en son akıllı telefon modeli. 5G destekli ve yüksek çözünürlüklü kamera.</Description>
+    <Price>999.99</Price>
+    <CategoryId>3</CategoryId>
+    <ImageUrl>/images/smartphone-x.jpg</ImageUrl>
+    <StockQuantity>50</StockQuantity>
+    <Discount>0.10</Discount>
+    <Tag>Telefon</Tag>
+    <Tag>5G</Tag>
+    <Tag>Akıllı</Tag>
+  </Product>
+  <Product>
+    <Id>2</Id>
+    <Name>Dizüstü Bilgisayar Pro</Name>
+    <Description>Profesyoneller için yüksek performanslı dizüstü bilgisayar. 16GB RAM ve 1TB SSD depolama alanı.</Description>
+    <Price>1499.99</Price>
+    <CategoryId>2</CategoryId>
+    <ImageUrl>/images/laptop-pro.jpg</ImageUrl>
+    <StockQuantity>30</StockQuantity>
+    <Tag>Bilgisayar</Tag>
+    <Tag>Yüksek Performans</Tag>
+  </Product>
+  <Product>
+    <Id>3</Id>
+    <Name>Kablosuz Kulaklık Plus</Name>
+    <Description>Gürültü önleyici özelliğe sahip, su geçirmez kablosuz kulaklık. 24 saat pil ömrü.</Description>
+    <Price>199.95</Price>
+    <CategoryId>3</CategoryId>
+    <ImageUrl>/images/wireless-headphones.jpg</ImageUrl>
+    <StockQuantity>75</StockQuantity>
+    <Discount>0.15</Discount>
+    <Tag>Kulaklık</Tag>
+    <Tag>Kablosuz</Tag>
+    <Tag>Gürültü Önleyici</Tag>
+  </Product>
+  <Product>
+    <Id>4</Id>
+    <Name>4K Smart TV</Name>
+    <Description>55 inç 4K Ultra HD çözünürlüklü akıllı televizyon. HDR desteği ve dahili uygulamalar.</Description>
+    <Price>649.99</Price>
+    <CategoryId>1</CategoryId>
+    <ImageUrl>/images/smart-tv.jpg</ImageUrl>
+    <StockQuantity>15</StockQuantity>
+    <Tag>TV</Tag>
+    <Tag>4K</Tag>
+    <Tag>Smart</Tag>
+  </Product>
+  <Product>
+    <Id>5</Id>
+    <Name>Akıllı Saat Pro</Name>
+    <Description>Sağlık takibi, GPS ve bildirim özellikleriyle tam donanımlı akıllı saat. Su geçirmez tasarım.</Description>
+    <Price>299.50</Price>
+    <CategoryId>3</CategoryId>
+    <ImageUrl>/images/smartwatch.jpg</ImageUrl>
+    <StockQuantity>40</StockQuantity>
+    <Tag>Saat</Tag>
+    <Tag>Fitness</Tag>
+    <Tag>Akıllı</Tag>
+  </Product>
+  <Product>
+    <Id>6</Id>
+    <Name>Oyun Konsolu Elite</Name>
+    <Description>En son teknoloji ile donatılmış yüksek performanslı oyun konsolu. 1TB depolama ve 4K oyun desteği.</Description>
+    <Price>499.99</Price>
+    <CategoryId>4</CategoryId>
+    <ImageUrl>/images/game-console.jpg</ImageUrl>
+    <StockQuantity>25</StockQuantity>
+    <Discount>0.05</Discount>
+    <Tag>Oyun</Tag>
+    <Tag>Konsol</Tag>
+    <Tag>4K</Tag>
+  </Product>
+  <Product>
+    <Id>7</Id>
+    <Name>Akıllı Ev Asistanı</Name>
+    <Description>Sesli komutlarla kontrol edilebilen akıllı ev asistanı. Müzik çalma, hava durumu ve akıllı ev cihazları kontrolü.</Description>
+    <Price>89.95</Price>
+    <CategoryId>5</CategoryId>
+    <ImageUrl>/images/home-assistant.jpg</ImageUrl>
+    <StockQuantity>60</StockQuantity>
+    <Tag>Akıllı Ev</Tag>
+    <Tag>Sesli Asistan</Tag>
+  </Product>
+  <Product>
+    <Id>8</Id>
+    <Name>Elektrikli Scooter</Name>
+    <Description>30km menzilli, katlanabilir elektrikli scooter. Şehir içi ulaşım için ideal.</Description>
+    <Price>399.99</Price>
+    <CategoryId>6</CategoryId>
+    <ImageUrl>/images/e-scooter.jpg</ImageUrl>
+    <StockQuantity>20</StockQuantity>
+    <Discount>0.08</Discount>
+    <Tag>Ulaşım</Tag>
+    <Tag>Elektrikli</Tag>
+    <Tag>Çevre Dostu</Tag>
+  </Product>
+  <Product>
+    <Id>9</Id>
+    <Name>Drone Kamera</Name>
+    <Description>4K video kaydedebilen, katlanabilir drone. 25 dakika uçuş süresi ve otomatik takip özellikleri.</Description>
+    <Price>599.99</Price>
+    <CategoryId>7</CategoryId>
+    <ImageUrl>/images/drone.jpg</ImageUrl>
+    <StockQuantity>12</StockQuantity>
+    <Tag>Drone</Tag>
+    <Tag>Kamera</Tag>
+    <Tag>4K</Tag>
+  </Product>
+  <Product>
+    <Id>10</Id>
+    <Name>Profesyonel Fotoğraf Makinesi</Name>
+    <Description>24.2MP sensör, 4K video kayıt ve değiştirilebilir lens uyumlu profesyonel fotoğraf makinesi.</Description>
+    <Price>899.95</Price>
+    <CategoryId>7</CategoryId>
+    <ImageUrl>/images/camera.jpg</ImageUrl>
+    <StockQuantity>18</StockQuantity>
+    <Discount>0.12</Discount>
+    <Tag>Fotoğraf</Tag>
+    <Tag>Profesyonel</Tag>
+    <Tag>DSLR</Tag>
+  </Product>
+  <Product>
+    <Id>11</Id>
+    <Name>Bluetooth Hoparlör Max</Name>
+    <Description>Su geçirmez, 20 saat pil ömrüne sahip taşınabilir bluetooth hoparlör. Derin bas ve net ses kalitesi.</Description>
+    <Price>129.99</Price>
+    <CategoryId>3</CategoryId>
+    <ImageUrl>/images/bluetooth-speaker.jpg</ImageUrl>
+    <StockQuantity>45</StockQuantity>
+    <Discount>0.07</Discount>
+    <Tag>Ses</Tag>
+    <Tag>Bluetooth</Tag>
+    <Tag>Su Geçirmez</Tag>
+  </Product>
+  <Product>
+    <Id>12</Id>
+    <Name>Akıllı Robot Süpürge</Name>
+    <Description>Lazer navigasyon teknolojili, programlanabilir akıllı robot süpürge. Mobil uygulama ile uzaktan kontrol.</Description>
+    <Price>349.95</Price>
+    <CategoryId>5</CategoryId>
+    <ImageUrl>/images/robot-vacuum.jpg</ImageUrl>
+    <StockQuantity>22</StockQuantity>
+    <Tag>Ev Aletleri</Tag>
+    <Tag>Robot</Tag>
+    <Tag>Temizlik</Tag>
+  </Product>
+  <Product>
+    <Id>13</Id>
+    <Name>Taşınabilir SSD Disk</Name>
+    <Description>1TB kapasiteli, yüksek hızlı USB 3.1 taşınabilir SSD disk. Kompakt tasarım ve şok direnci.</Description>
+    <Price>179.50</Price>
+    <CategoryId>2</CategoryId>
+    <ImageUrl>/images/portable-ssd.jpg</ImageUrl>
+    <StockQuantity>55</StockQuantity>
+    <Discount>0.10</Discount>
+    <Tag>Depolama</Tag>
+    <Tag>SSD</Tag>
+    <Tag>Taşınabilir</Tag>
+  </Product>
+  <Product>
+    <Id>14</Id>
+    <Name>Oyuncu Klavyesi RGB</Name>
+    <Description>Mekanik tuşlara ve özelleştirilebilir RGB aydınlatmaya sahip profesyonel oyuncu klavyesi.</Description>
+    <Price>149.99</Price>
+    <CategoryId>4</CategoryId>
+    <ImageUrl>/images/gaming-keyboard.jpg</ImageUrl>
+    <StockQuantity>38</StockQuantity>
+    <Tag>Oyun</Tag>
+    <Tag>Klavye</Tag>
+    <Tag>RGB</Tag>
+  </Product>
+  <Product>
+    <Id>15</Id>
+    <Name>Kablosuz Şarj Standı</Name>
+    <Description>15W hızlı şarj destekli, çift cihaz şarj edebilen kablosuz şarj standı. Telefon ve akıllı saat uyumlu.</Description>
+    <Price>59.95</Price>
+    <CategoryId>3</CategoryId>
+    <ImageUrl>/images/wireless-charger.jpg</ImageUrl>
+    <StockQuantity>70</StockQuantity>
+    <Discount>0.15</Discount>
+    <Tag>Şarj</Tag>
+    <Tag>Kablosuz</Tag>
+    <Tag>Aksesuvar</Tag>
+  </Product>
+  <Product>
+    <Id>16</Id>
+    <Name>Akıllı Tartı Pro</Name>
+    <Description>Vücut yağ oranı, kas kütlesi ve diğer 12 ölçüm parametresi sunabilen akıllı tartı. Mobil uygulama bağlantısı.</Description>
+    <Price>79.95</Price>
+    <CategoryId>5</CategoryId>
+    <ImageUrl>/images/smart-scale.jpg</ImageUrl>
+    <StockQuantity>42</StockQuantity>
+    <Tag>Sağlık</Tag>
+    <Tag>Akıllı Ev</Tag>
+    <Tag>Fitness</Tag>
+  </Product>
+  <Product>
+    <Id>17</Id>
+    <Name>Grafik Tablet Pro</Name>
+    <Description>8192 basınç seviyeli, 10 inç çizim alanına sahip profesyonel grafik tableti. Kalem dahil.</Description>
+    <Price>249.99</Price>
+    <CategoryId>2</CategoryId>
+    <ImageUrl>/images/graphic-tablet.jpg</ImageUrl>
+    <StockQuantity>25</StockQuantity>
+    <Tag>Çizim</Tag>
+    <Tag>Tasarım</Tag>
+    <Tag>Dijital</Tag>
+  </Product>
+  <Product>
+    <Id>18</Id>
+    <Name>Oyun Koltuğu Ergonomik</Name>
+    <Description>Bel ve boyun desteği olan, yüksek kaliteli PU deri kaplı ergonomik oyuncu koltuğu. 150kg taşıma kapasitesi.</Description>
+    <Price>279.95</Price>
+    <CategoryId>4</CategoryId>
+    <ImageUrl>/images/gaming-chair.jpg</ImageUrl>
+    <StockQuantity>15</StockQuantity>
+    <Discount>0.08</Discount>
+    <Tag>Mobilya</Tag>
+    <Tag>Oyun</Tag>
+    <Tag>Ergonomik</Tag>
+  </Product>
+  <Product>
+    <Id>19</Id>
+    <Name>Akıllı Ampul Set</Name>
+    <Description>16 milyon renk seçeneği sunan, sesli asistan uyumlu akıllı ampul seti. 4 adet bulb içerir.</Description>
+    <Price>89.99</Price>
+    <CategoryId>5</CategoryId>
+    <ImageUrl>/images/smart-bulbs.jpg</ImageUrl>
+    <StockQuantity>60</StockQuantity>
+    <Tag>Aydınlatma</Tag>
+    <Tag>Akıllı Ev</Tag>
+    <Tag>LED</Tag>
+  </Product>
+  <Product>
+    <Id>20</Id>
+    <Name>360 Derece Aksiyon Kamerası</Name>
+    <Description>Su geçirmez, 5.7K video kaydı yapabilen 360 derece aksiyon kamerası. Gelişmiş görüntü sabitleme.</Description>
+    <Price>329.95</Price>
+    <CategoryId>7</CategoryId>
+    <ImageUrl>/images/360-camera.jpg</ImageUrl>
+    <StockQuantity>18</StockQuantity>
+    <Discount>0.10</Discount>
+    <Tag>Kamera</Tag>
+    <Tag>360</Tag>
+    <Tag>Aksiyon</Tag>
+  </Product>
+  <Product>
+    <Id>21</Id>
+    <Name>Ultrabook İnce Laptop</Name>
+    <Description>14 inç, 1.2kg hafifliğinde, 12 saat pil ömrüne sahip ultra ince dizüstü bilgisayar. i7 işlemci ve 512GB SSD.</Description>
+    <Price>1299.99</Price>
+    <CategoryId>2</CategoryId>
+    <ImageUrl>/images/ultrabook.jpg</ImageUrl>
+    <StockQuantity>20</StockQuantity>
+    <Tag>Laptop</Tag>
+    <Tag>Ultrabook</Tag>
+    <Tag>İnce</Tag>
+  </Product>
+  <Product>
+    <Id>22</Id>
+    <Name>Akıllı Termostat</Name>
+    <Description>Enerji tasarrufu sağlayan, akıllı telefon kontrollü programlanabilir termostat. Sesli asistan uyumlu.</Description>
+    <Price>119.95</Price>
+    <CategoryId>5</CategoryId>
+    <ImageUrl>/images/smart-thermostat.jpg</ImageUrl>
+    <StockQuantity>30</StockQuantity>
+    <Discount>0.05</Discount>
+    <Tag>Akıllı Ev</Tag>
+    <Tag>Enerji</Tag>
+    <Tag>İklimlendirme</Tag>
+  </Product>
+  <Product>
+    <Id>23</Id>
+    <Name>Fitness Bilekliği</Name>
+    <Description>Nabız, uyku ve aktivite takibi yapan, 7 gün pil ömürlü su geçirmez akıllı bileklik.</Description>
+    <Price>79.95</Price>
+    <CategoryId>3</CategoryId>
+    <ImageUrl>/images/fitness-band.jpg</ImageUrl>
+    <StockQuantity>85</StockQuantity>
+    <Tag>Fitness</Tag>
+    <Tag>Sağlık</Tag>
+    <Tag>Giyilebilir</Tag>
+  </Product>
+  <Product>
+    <Id>24</Id>
+    <Name>Dijital Karakalem Tablet</Name>
+    <Description>Not almak ve çizim yapmak için kağıt hissi veren e-mürekkep ekranlı dijital tablet. PDF desteği.</Description>
+    <Price>259.95</Price>
+    <CategoryId>2</CategoryId>
+    <ImageUrl>/images/e-paper-tablet.jpg</ImageUrl>
+    <StockQuantity>22</StockQuantity>
+    <Tag>Tablet</Tag>
+    <Tag>E-mürekkep</Tag>
+    <Tag>Dijital Not</Tag>
+  </Product>
+  <Product>
+    <Id>25</Id>
+    <Name>Taşınabilir Projeksiyon Cihazı</Name>
+    <Description>Cep boyutunda, 100 inç görüntü yansıtabilen, 3 saat pil ömürlü mini projeksiyon cihazı. WiFi ve Bluetooth özellikli.</Description>
+    <Price>349.99</Price>
+    <CategoryId>1</CategoryId>
+    <ImageUrl>/images/portable-projector.jpg</ImageUrl>
+    <StockQuantity>15</StockQuantity>
+    <Discount>0.12</Discount>
+    <Tag>Projeksiyon</Tag>
+    <Tag>Taşınabilir</Tag>
+    <Tag>Mini</Tag>
+  </Product>
+  <Product>
+    <Id>26</Id>
+    <Name>Oyun Kulaklığı 7.1</Name>
+    <Description>Sanal 7.1 surround ses, gürültü engelleyici mikrofon ve RGB aydınlatmalı profesyonel oyuncu kulaklığı.</Description>
+    <Price>129.99</Price>
+    <CategoryId>4</CategoryId>
+    <ImageUrl>/images/gaming-headset.jpg</ImageUrl>
+    <StockQuantity>40</StockQuantity>
+    <Tag>Oyun</Tag>
+    <Tag>Kulaklık</Tag>
+    <Tag>7.1 Ses</Tag>
+  </Product>
+  <Product>
+    <Id>27</Id>
+    <Name>Akıllı Güvenlik Kamerası</Name>
+    <Description>Hareket algılama, gece görüşü ve iki yönlü ses iletişimi özellikli kablosuz güvenlik kamerası.</Description>
+    <Price>89.95</Price>
+    <CategoryId>5</CategoryId>
+    <ImageUrl>/images/security-camera.jpg</ImageUrl>
+    <StockQuantity>35</StockQuantity>
+    <Discount>0.08</Discount>
+    <Tag>Güvenlik</Tag>
+    <Tag>Kamera</Tag>
+    <Tag>Akıllı Ev</Tag>
+  </Product>
+  <Product>
+    <Id>28</Id>
+    <Name>Elektrikli Bisiklet City</Name>
+    <Description>50km menzilli, katlanabilir elektrikli şehir bisikleti. 7 vitesli ve ön amortisörlü.</Description>
+    <Price>899.99</Price>
+    <CategoryId>6</CategoryId>
+    <ImageUrl>/images/e-bike.jpg</ImageUrl>
+    <StockQuantity>8</StockQuantity>
+    <Tag>Bisiklet</Tag>
+    <Tag>Elektrikli</Tag>
+    <Tag>Ulaşım</Tag>
+  </Product>
+  <Product>
+    <Id>29</Id>
+    <Name>Su Geçirmez E-Kitap Okuyucu</Name>
+    <Description>7 inç ekranlı, ayarlanabilir ışık teknolojili, 32GB depolama alanlı su geçirmez e-kitap okuyucu.</Description>
+    <Price>179.95</Price>
+    <CategoryId>2</CategoryId>
+    <ImageUrl>/images/e-reader.jpg</ImageUrl>
+    <StockQuantity>28</StockQuantity>
+    <Discount>0.10</Discount>
+    <Tag>E-kitap</Tag>
+    <Tag>Okuyucu</Tag>
+    <Tag>Su Geçirmez</Tag>
+  </Product>
+  <Product>
+    <Id>30</Id>
+    <Name>Akıllı Kapı Kilidi</Name>
+    <Description>Parmak izi, şifre veya mobil uygulama ile açılabilen akıllı kapı kilidi. Uzaktan erişim ve geçmiş kayıtları.</Description>
+    <Price>249.99</Price>
+    <CategoryId>5</CategoryId>
+    <ImageUrl>/images/smart-lock.jpg</ImageUrl>
+    <StockQuantity>18</StockQuantity>
+    <Tag>Güvenlik</Tag>
+    <Tag>Kilit</Tag>
+    <Tag>Akıllı Ev</Tag>
+  </Product>
+  <Product>
+    <Id>31</Id>
+    <Name>Masaüstü Oyun Bilgisayarı</Name>
+    <Description>RTX 4080 ekran kartı, i9 işlemci ve 32GB RAM içeren özelleştirilebilir RGB aydınlatmalı oyun bilgisayarı.</Description>
+    <Price>2499.99</Price>
+    <CategoryId>2</CategoryId>
+    <ImageUrl>/images/gaming-desktop.jpg</ImageUrl>
+    <StockQuantity>10</StockQuantity>
+    <Discount>0.07</Discount>
+    <Tag>Bilgisayar</Tag>
+    <Tag>Oyun</Tag>
+    <Tag>Yüksek Performans</Tag>
+  </Product>
+  <Product>
+    <Id>32</Id>
+    <Name>Akıllı Kapı Zili</Name>
+    <Description>HD kamera, hareket sensörü ve iki yönlü ses iletişimi özellikli akıllı kapı zili. Mobil uygulama kontrolü.</Description>
+    <Price>149.95</Price>
+    <CategoryId>5</CategoryId>
+    <ImageUrl>/images/doorbell.jpg</ImageUrl>
+    <StockQuantity>32</StockQuantity>
+    <Tag>Güvenlik</Tag>
+    <Tag>Akıllı Ev</Tag>
+    <Tag>Kamera</Tag>
+  </Product>
+  <Product>
+    <Id>33</Id>
+    <Name>VR Gözlük Pro</Name>
+    <Description>4K çözünürlük, 120Hz yenileme hızı ve kablosuz tasarıma sahip sanal gerçeklik gözlüğü.</Description>
+    <Price>399.95</Price>
+    <CategoryId>4</CategoryId>
+    <ImageUrl>/images/vr-headset.jpg</ImageUrl>
+    <StockQuantity>15</StockQuantity>
+    <Discount>0.10</Discount>
+    <Tag>VR</Tag>
+    <Tag>Oyun</Tag>
+    <Tag>Sanal Gerçeklik</Tag>
+  </Product>
+  <Product>
+    <Id>34</Id>
+    <Name>Profesyonel Mikser Seti</Name>
+    <Description>10 hız ayarlı, 5L paslanmaz çelik kase ve çeşitli aparatları içeren mutfak mikseri seti.</Description>
+    <Price>289.95</Price>
+    <CategoryId>8</CategoryId>
+    <ImageUrl>/images/mixer.jpg</ImageUrl>
+    <StockQuantity>25</StockQuantity>
+    <Tag>Mutfak</Tag>
+    <Tag>Mikser</Tag>
+    <Tag>Profesyonel</Tag>
+  </Product>
+  <Product>
+    <Id>35</Id>
+    <Name>Akıllı Spor Ayakkabı</Name>
+    <Description>Adım sayar, mesafe ölçer ve kalori yakımı hesaplayan sensörlere sahip bağlantılı akıllı spor ayakkabı.</Description>
+    <Price>159.99</Price>
+    <CategoryId>9</CategoryId>
+    <ImageUrl>/images/smart-shoes.jpg</ImageUrl>
+    <StockQuantity>30</StockQuantity>
+    <Discount>0.05</Discount>
+    <Tag>Spor</Tag>
+    <Tag>Ayakkabı</Tag>
+    <Tag>Akıllı</Tag>
+  </Product>
+  <Product>
+    <Id>36</Id>
+    <Name>Dijital Çizim Kalemi</Name>
+    <Description>4096 basınç seviyesi, tilt desteği ve şarj edilebilir kalem. Tablet ve akıllı telefonlarla uyumlu.</Description>
+    <Price>129.95</Price>
+    <CategoryId>2</CategoryId>
+    <ImageUrl>/images/digital-pen.jpg</ImageUrl>
+    <StockQuantity>45</StockQuantity>
+    <Tag>Çizim</Tag>
+    <Tag>Dijital</Tag>
+    <Tag>Kalem</Tag>
+  </Product>
+  <Product>
+    <Id>37</Id>
+    <Name>Akıllı Pedalı Çöp Kutusu</Name>
+    <Description>Temassız sensörlü, koku filtreli ve otomatik torba değiştirme uyarısı veren akıllı çöp kutusu.</Description>
+    <Price>89.99</Price>
+    <CategoryId>5</CategoryId>
+    <ImageUrl>/images/smart-trash.jpg</ImageUrl>
+    <StockQuantity>38</StockQuantity>
+    <Tag>Ev Gereçleri</Tag>
+    <Tag>Akıllı Ev</Tag>
+    <Tag>Temassız</Tag>
+  </Product>
+  <Product>
+    <Id>38</Id>
+    <Name>Ultra Geniş Monitör</Name>
+    <Description>34 inç kavisli, 144Hz yenileme hızlı, QHD çözünürlüklü ultra geniş oyun monitörü.</Description>
+    <Price>549.99</Price>
+    <CategoryId>2</CategoryId>
+    <ImageUrl>/images/ultrawide-monitor.jpg</ImageUrl>
+    <StockQuantity>18</StockQuantity>
+    <Discount>0.08</Discount>
+    <Tag>Monitör</Tag>
+    <Tag>Oyun</Tag>
+    <Tag>Kavisli</Tag>
+  </Product>
+  <Product>
+    <Id>39</Id>
+    <Name>Profesyonel Kahve Makinesi</Name>
+    <Description>15 bar basınç, öğütücü ve köpürtücü ile tam donanımlı otomatik espresso ve cappuccino makinesi.</Description>
+    <Price>399.95</Price>
+    <CategoryId>8</CategoryId>
+    <ImageUrl>/images/coffee-machine.jpg</ImageUrl>
+    <StockQuantity>20</StockQuantity>
+    <Tag>Kahve</Tag>
+    <Tag>Mutfak</Tag>
+    <Tag>Espresso</Tag>
+  </Product>
+  <Product>
+    <Id>40</Id>
+    <Name>Akıllı Anahtarlık Bulucu</Name>
+    <Description>GPS takip, sesli uyarı ve telefon uygulaması ile kayıp eşyalarınızı kolayca bulabileceğiniz akıllı cihaz.</Description>
+    <Price>29.99</Price>
+    <CategoryId>3</CategoryId>
+    <ImageUrl>/images/key-finder.jpg</ImageUrl>
+    <StockQuantity>100</StockQuantity>
+    <Discount>0.15</Discount>
+    <Tag>Aksesuvar</Tag>
+    <Tag>GPS</Tag>
+    <Tag>Bluetooth</Tag>
+  </Product>
+  <Product>
+    <Id>41</Id>
+    <Name>Çocuk Akıllı Saat</Name>
+    <Description>GPS takip, SOS butonu ve ebeveyn kontrolü içeren çocuklar için özel tasarlanmış akıllı saat.</Description>
+    <Price>89.95</Price>
+    <CategoryId>3</CategoryId>
+    <ImageUrl>/images/kids-smartwatch.jpg</ImageUrl>
+    <StockQuantity>40</StockQuantity>
+    <Tag>Çocuk</Tag>
+    <Tag>Saat</Tag>
+    <Tag>GPS</Tag>
+  </Product>
+  <Product>
+    <Id>42</Id>
+    <Name>Taşınabilir Oyun Konsolu</Name>
+    <Description>7 inç HD ekran, 6 saat pil ömrü ve geniş oyun kütüphanesi sunan taşınabilir oyun konsolu.</Description>
+    <Price>249.99</Price>
+    <CategoryId>4</CategoryId>
+    <ImageUrl>/images/portable-console.jpg</ImageUrl>
+    <StockQuantity>25</StockQuantity>
+    <Discount>0.05</Discount>
+    <Tag>Oyun</Tag>
+    <Tag>Taşınabilir</Tag>
+    <Tag>Konsol</Tag>
+  </Product>
+  <Product>
+    <Id>43</Id>
+    <Name>Akıllı Yoga Matı</Name>
+    <Description>Hareketleri algılayan sensörler, ısıtma özellikleri ve sesli rehberlik sunan bağlantılı yoga matı.</Description>
+    <Price>149.95</Price>
+    <CategoryId>9</CategoryId>
+    <ImageUrl>/images/smart-yoga-mat.jpg</ImageUrl>
+    <StockQuantity>18</StockQuantity>
+    <Tag>Yoga</Tag>
+    <Tag>Fitness</Tag>
+    <Tag>Akıllı</Tag>
+  </Product>
+  <Product>
+    <Id>44</Id>
+    <Name>Kablosuz Araç Şarj Standı</Name>
+    <Description>10W hızlı şarj destekli, otomatik kavramalı araç içi kablosuz telefon şarj standı.</Description>
+    <Price>49.99</Price>
+    <CategoryId>10</CategoryId>
+    <ImageUrl>/images/car-charger.jpg</ImageUrl>
+    <StockQuantity>60</StockQuantity>
+    <Discount>0.10</Discount>
+    <Tag>Araç</Tag>
+    <Tag>Şarj</Tag>
+    <Tag>Kablosuz</Tag>
+  </Product>
+  <Product>
+    <Id>45</Id>
+    <Name>Yüz Tanıma Güvenlik Kamerası</Name>
+    <Description>Yapay zeka destekli yüz tanıma, hareket algılama ve bulut depolama özellikli güvenlik kamerası sistemi.</Description>
+    <Price>299.95</Price>
+    <CategoryId>5</CategoryId>
+    <ImageUrl>/images/facial-camera.jpg</ImageUrl>
+    <StockQuantity>15</StockQuantity>
+    <Tag>Güvenlik</Tag>
+    <Tag>Kamera</Tag>
+    <Tag>Yapay Zeka</Tag>
+  </Product>
+  <Product>
+    <Id>46</Id>
+    <Name>Kompakt Drone Mini</Name>
+    <Description>Cep boyutunda, 2K kamera ve 15 dakika uçuş süresi olan katlanabilir mini drone.</Description>
+    <Price>199.99</Price>
+    <CategoryId>7</CategoryId>
+    <ImageUrl>/images/mini-drone.jpg</ImageUrl>
+    <StockQuantity>35</StockQuantity>
+    <Discount>0.07</Discount>
+    <Tag>Drone</Tag>
+    <Tag>Mini</Tag>
+    <Tag>Kamera</Tag>
+  </Product>
+  <Product>
+    <Id>47</Id>
+    <Name>Akıllı Su Şişesi</Name>
+    <Description>Su tüketimini takip eden, hatırlatmalar sunan ve su sıcaklığını gösteren akıllı su şişesi.</Description>
+    <Price>49.95</Price>
+    <CategoryId>9</CategoryId>
+    <ImageUrl>/images/smart-bottle.jpg</ImageUrl>
+    <StockQuantity>55</StockQuantity>
+    <Tag>Sağlık</Tag>
+    <Tag>Su</Tag>
+    <Tag>Akıllı</Tag>
+  </Product>
+  <Product>
+    <Id>48</Id>
+    <Name>Oyuncu Mouse RGB</Name>
+    <Description>16000 DPI optik sensör, 8 programlanabilir buton ve özelleştirilebilir RGB aydınlatmalı oyuncu mouse.</Description>
+    <Price>79.99</Price>
+    <CategoryId>4</CategoryId>
+    <ImageUrl>/images/gaming-mouse.jpg</ImageUrl>
+    <StockQuantity>50</StockQuantity>
+    <Tag>Oyun</Tag>
+    <Tag>Mouse</Tag>
+    <Tag>RGB</Tag>
+  </Product>
+  <Product>
+    <Id>49</Id>
+    <Name>Akıllı Akvaryum Sistemi</Name>
+    <Description>Otomatik yemleme, su kalitesi analizi ve akıllı telefon kontrolü sunan tam donanımlı akvaryum sistemi.</Description>
+    <Price>199.95</Price>
+    <CategoryId>5</CategoryId>
+    <ImageUrl>/images/smart-aquarium.jpg</ImageUrl>
+    <StockQuantity>12</StockQuantity>
+    <Discount>0.05</Discount>
+    <Tag>Akvaryum</Tag>
+    <Tag>Akıllı Ev</Tag>
+    <Tag>Otomatik</Tag>
+  </Product>
+  <Product>
+    <Id>50</Id>
+    <Name>Kablosuz Kulak İçi Kulaklık</Name>
+    <Description>Aktif gürültü engelleme, su geçirmez tasarım ve 30 saat toplam pil ömrü sunan kablosuz kulak içi kulaklık.</Description>
+    <Price>149.99</Price>
+    <CategoryId>3</CategoryId>
+    <ImageUrl>/images/wireless-earbuds.jpg</ImageUrl>
+    <StockQuantity>65</StockQuantity>
+    <Discount>0.12</Discount>
+    <Tag>Kulaklık</Tag>
+    <Tag>Kablosuz</Tag>
+    <Tag>Gürültü Engelleyici</Tag>
+  </Product>
+  <Product>
+    <Id>51</Id>
+    <Name>Çok Fonksiyonlu Yazıcı</Name>
+    <Description>Tarayıcı, fotokopi ve çift taraflı baskı özellikli kablosuz renkli lazer yazıcı. Mobil baskı desteği.</Description>
+    <Price>8499.90</Price>
+    <CategoryId>2</CategoryId>
+    <ImageUrl>/images/multifunction-printer.jpg</ImageUrl>
+    <StockQuantity>22</StockQuantity>
+    <Discount>0.08</Discount>
+    <Tag>Yazıcı</Tag>
+    <Tag>Ofis</Tag>
+    <Tag>Kablosuz</Tag>
+  </Product>
+  <Product>
+    <Id>52</Id>
+    <Name>Akıllı Mutfak Terazisi</Name>
+    <Description>Beslenme değerlerini hesaplayan, mobil uygulama bağlantılı dijital mutfak terazisi. 0.1g hassasiyetli.</Description>
+    <Price>1299.90</Price>
+    <CategoryId>8</CategoryId>
+    <ImageUrl>/images/smart-kitchen-scale.jpg</ImageUrl>
+    <StockQuantity>40</StockQuantity>
+    <Tag>Mutfak</Tag>
+    <Tag>Tartı</Tag>
+    <Tag>Dijital</Tag>
+  </Product>
+  <Product>
+    <Id>53</Id>
+    <Name>Profesyonel Saç Kurutma Makinesi</Name>
+    <Description>İyon teknolojili, 3 hız ve 5 ısı ayarlı, saç koruma sensörlü profesyonel saç kurutma makinesi.</Description>
+    <Price>2499.50</Price>
+    <CategoryId>10</CategoryId>
+    <ImageUrl>/images/hair-dryer.jpg</ImageUrl>
+    <StockQuantity>28</StockQuantity>
+    <Discount>0.10</Discount>
+    <Tag>Kişisel Bakım</Tag>
+    <Tag>Saç</Tag>
+    <Tag>Profesyonel</Tag>
+  </Product>
+  <Product>
+    <Id>54</Id>
+    <Name>Akıllı Çocuk Oyuncağı</Name>
+    <Description>Kodlama öğreten, etkileşimli ve sesli komut alabilen eğitici akıllı robot oyuncak. 4-12 yaş arası.</Description>
+    <Price>3799.99</Price>
+    <CategoryId>9</CategoryId>
+    <ImageUrl>/images/educational-robot.jpg</ImageUrl>
+    <StockQuantity>35</StockQuantity>
+    <Tag>Oyuncak</Tag>
+    <Tag>Eğitim</Tag>
+    <Tag>Robot</Tag>
+  </Product>
+  <Product>
+    <Id>55</Id>
+    <Name>Şarjlı El Feneri</Name>
+    <Description>1500 lümen, su geçirmez, 3 farklı aydınlatma modu ve USB şarj özellikli dayanıklı el feneri.</Description>
+    <Price>899.95</Price>
+    <CategoryId>10</CategoryId>
+    <ImageUrl>/images/flashlight.jpg</ImageUrl>
+    <StockQuantity>60</StockQuantity>
+    <Discount>0.05</Discount>
+    <Tag>Aydınlatma</Tag>
+    <Tag>Kamp</Tag>
+    <Tag>Şarjlı</Tag>
+  </Product>
+  <Product>
+    <Id>56</Id>
+    <Name>Kablosuz Oyun Kolu PC/Konsol</Name>
+    <Description>PC ve konsol uyumlu, titreşimli, programlanabilir tuşlu gelişmiş kablosuz oyun kolu.</Description>
+    <Price>1799.90</Price>
+    <CategoryId>4</CategoryId>
+    <ImageUrl>/images/wireless-controller.jpg</ImageUrl>
+    <StockQuantity>42</StockQuantity>
+    <Tag>Oyun</Tag>
+    <Tag>Kontrol</Tag>
+    <Tag>Kablosuz</Tag>
+  </Product>
+  <Product>
+    <Id>57</Id>
+    <Name>Akıllı Dijital Kronometre</Name>
+    <Description>Nabız ölçer, GPS, antrenman programları içeren profesyonel spor kronometre. Su geçirmez ve şarj edilebilir.</Description>
+    <Price>2299.95</Price>
+    <CategoryId>9</CategoryId>
+    <ImageUrl>/images/digital-stopwatch.jpg</ImageUrl>
+    <StockQuantity>30</StockQuantity>
+    <Discount>0.07</Discount>
+    <Tag>Spor</Tag>
+    <Tag>Kronometre</Tag>
+    <Tag>Antrenman</Tag>
+  </Product>
+  <Product>
+    <Id>58</Id>
+    <Name>Mini Bluetooth Klavye</Name>
+    <Description>Şarj edilebilir, RGB aydınlatmalı, tablet ve akıllı TV uyumlu kompakt bluetooth klavye.</Description>
+    <Price>749.90</Price>
+    <CategoryId>3</CategoryId>
+    <ImageUrl>/images/mini-keyboard.jpg</ImageUrl>
+    <StockQuantity>55</StockQuantity>
+    <Tag>Klavye</Tag>
+    <Tag>Bluetooth</Tag>
+    <Tag>Kompakt</Tag>
+  </Product>
+  <Product>
+    <Id>59</Id>
+    <Name>Elektrikli Diş Fırçası Pro</Name>
+    <Description>5 farklı fırçalama modu, basınç sensörü ve mobil uygulama bağlantılı akıllı elektrikli diş fırçası.</Description>
+    <Price>1599.99</Price>
+    <CategoryId>10</CategoryId>
+    <ImageUrl>/images/electric-toothbrush.jpg</ImageUrl>
+    <StockQuantity>45</StockQuantity>
+    <Discount>0.15</Discount>
+    <Tag>Kişisel Bakım</Tag>
+    <Tag>Diş</Tag>
+    <Tag>Elektrikli</Tag>
+  </Product>
+  <Product>
+    <Id>60</Id>
+    <Name>Akıllı Bahçe Sulama Sistemi</Name>
+    <Description>Hava durumuna göre otomatik ayarlanan, uzaktan kontrol edilebilir akıllı bahçe sulama sistemi.</Description>
+    <Price>2899.90</Price>
+    <CategoryId>5</CategoryId>
+    <ImageUrl>/images/smart-irrigation.jpg</ImageUrl>
+    <StockQuantity>20</StockQuantity>
+    <Tag>Bahçe</Tag>
+    <Tag>Sulama</Tag>
+    <Tag>Akıllı Ev</Tag>
+  </Product>
+  <Product>
+    <Id>61</Id>
+    <Name>Taşınabilir Bluetooth Hoparlör Su Geçirmez</Name>
+    <Description>IPX7 su geçirmez, 24 saat pil ömrü, çift hoparlör ve bas güçlendirici ile outdoor etkinlikler için ideal.</Description>
+    <Price>1899.90</Price>
+    <CategoryId>3</CategoryId>
+    <ImageUrl>/images/waterproof-speaker.jpg</ImageUrl>
+    <StockQuantity>38</StockQuantity>
+    <Discount>0.12</Discount>
+    <Tag>Hoparlör</Tag>
+    <Tag>Su Geçirmez</Tag>
+    <Tag>Bluetooth</Tag>
+  </Product>
+  <Product>
+    <Id>62</Id>
+    <Name>Profesyonel Tripod</Name>
+    <Description>175cm uzunluğunda, karbon fiber, hızlı açılır ayaklı, 360 derece döndürülebilir profesyonel kamera tripodu.</Description>
+    <Price>3499.90</Price>
+    <CategoryId>7</CategoryId>
+    <ImageUrl>/images/pro-tripod.jpg</ImageUrl>
+    <StockQuantity>18</StockQuantity>
+    <Tag>Kamera</Tag>
+    <Tag>Tripod</Tag>
+    <Tag>Profesyonel</Tag>
+  </Product>
+  <Product>
+    <Id>63</Id>
+    <Name>Akıllı Kahve Bardağı</Name>
+    <Description>İçecek sıcaklığını koruyan, sıcaklık göstergeli ve mobil uygulama bağlantılı akıllı termos bardak.</Description>
+    <Price>849.95</Price>
+    <CategoryId>8</CategoryId>
+    <ImageUrl>/images/smart-mug.jpg</ImageUrl>
+    <StockQuantity>50</StockQuantity>
+    <Discount>0.08</Discount>
+    <Tag>Bardak</Tag>
+    <Tag>Akıllı</Tag>
+    <Tag>Termos</Tag>
+  </Product>
+  <Product>
+    <Id>64</Id>
+    <Name>Oyun Bilgisayarı Soğutma Standı</Name>
+    <Description>5 adet hızı ayarlanabilir fan, RGB aydınlatma ve 2 adet USB portu olan laptop soğutma standı.</Description>
+    <Price>999.90</Price>
+    <CategoryId>2</CategoryId>
+    <ImageUrl>/images/cooling-pad.jpg</ImageUrl>
+    <StockQuantity>40</StockQuantity>
+    <Tag>Laptop</Tag>
+    <Tag>Soğutma</Tag>
+    <Tag>Oyun</Tag>
+  </Product>
+  <Product>
+    <Id>65</Id>
+    <Name>Akıllı Bebek Telsizi</Name>
+    <Description>HD kamera, gece görüşü, ısı sensörü ve iki yönlü ses iletişimi özellikli WiFi bebek monitörü.</Description>
+    <Price>2199.95</Price>
+    <CategoryId>5</CategoryId>
+    <ImageUrl>/images/baby-monitor.jpg</ImageUrl>
+    <StockQuantity>25</StockQuantity>
+    <Tag>Bebek</Tag>
+    <Tag>Kamera</Tag>
+    <Tag>Monitör</Tag>
+  </Product>
+  <Product>
+    <Id>66</Id>
+    <Name>Akıllı Kişisel Spor Antrenörü</Name>
+    <Description>Egzersiz takibi, form analizi ve sesli yönlendirme yapan giyilebilir AI destekli fitness cihazı.</Description>
+    <Price>3299.90</Price>
+    <CategoryId>9</CategoryId>
+    <ImageUrl>/images/fitness-trainer.jpg</ImageUrl>
+    <StockQuantity>15</StockQuantity>
+    <Discount>0.10</Discount>
+    <Tag>Fitness</Tag>
+    <Tag>Yapay Zeka</Tag>
+    <Tag>Antrenör</Tag>
+  </Product>
+  <Product>
+    <Id>67</Id>
+    <Name>Çift Ekranlı E-Kitap Okuyucu</Name>
+    <Description>Kitap formatında çift e-mürekkep ekranlı, 32GB depolama ve not alma özellikleri olan e-kitap okuyucu.</Description>
+    <Price>5999.90</Price>
+    <CategoryId>2</CategoryId>
+    <ImageUrl>/images/dual-ereader.jpg</ImageUrl>
+    <StockQuantity>10</StockQuantity>
+    <Tag>E-kitap</Tag>
+    <Tag>Çift Ekran</Tag>
+    <Tag>Okuyucu</Tag>
+  </Product>
+  <Product>
+    <Id>68</Id>
+    <Name>4K Aksiyon Kamera Su Altı</Name>
+    <Description>60m derinliğe kadar su geçirmez, stabilizasyon özellikli, 4K 60FPS video kaydedebilen aksiyon kamerası.</Description>
+    <Price>6499.95</Price>
+    <CategoryId>7</CategoryId>
+    <ImageUrl>/images/underwater-camera.jpg</ImageUrl>
+    <StockQuantity>20</StockQuantity>
+    <Discount>0.07</Discount>
+    <Tag>Kamera</Tag>
+    <Tag>Su Altı</Tag>
+    <Tag>4K</Tag>
+  </Product>
+  <Product>
+    <Id>69</Id>
+    <Name>Akıllı Dil Çeviri Cihazı</Name>
+    <Description>108 dil desteği, gerçek zamanlı çeviri yapabilen, WiFi ve Bluetooth bağlantılı kompakt çeviri cihazı.</Description>
+    <Price>4299.90</Price>
+    <CategoryId>3</CategoryId>
+    <ImageUrl>/images/translator-device.jpg</ImageUrl>
+    <StockQuantity>30</StockQuantity>
+    <Tag>Çeviri</Tag>
+    <Tag>Dil</Tag>
+    <Tag>Seyahat</Tag>
+  </Product>
+  <Product>
+    <Id>70</Id>
+    <Name>Profesyonel Ses Kayıt Mikrofonu</Name>
+    <Description>Stüdyo kalitesinde kayıt yapabilen, USB bağlantılı, podcast ve müzik kaydı için ideal kondenser mikrofon.</Description>
+    <Price>3799.90</Price>
+    <CategoryId>3</CategoryId>
+    <ImageUrl>/images/studio-mic.jpg</ImageUrl>
+    <StockQuantity>25</StockQuantity>
+    <Discount>0.05</Discount>
+    <Tag>Mikrofon</Tag>
+    <Tag>Ses</Tag>
+    <Tag>Kayıt</Tag>
+  </Product>
+  <Product>
+    <Id>71</Id>
+    <Name>RGB Gaming Klavye</Name>
+    <Description>Mekanik tuşlu, RGB aydınlatmalı, oyuncular için özel tasarlanmış USB klavye.</Description>
+    <Price>1249.99</Price>
+    <CategoryId>1</CategoryId>
+    <ImageUrl>/images/gaming-keyboard.jpg</ImageUrl>
+    <StockQuantity>40</StockQuantity>
+    <Discount>0.1</Discount>
+    <Tag>Klavye</Tag>
+    <Tag>Oyuncu</Tag>
+    <Tag>RGB</Tag>
+  </Product>
+  <Product>
+    <Id>72</Id>
+    <Name>4K UHD Monitör</Name>
+    <Description>27 inç, IPS panel, 3840x2160 çözünürlükte, profesyonel tasarım ve oyun için uygun monitör.</Description>
+    <Price>6799.5</Price>
+    <CategoryId>2</CategoryId>
+    <ImageUrl>/images/4k-monitor.jpg</ImageUrl>
+    <StockQuantity>15</StockQuantity>
+    <Discount>0.07</Discount>
+    <Tag>Monitör</Tag>
+    <Tag>4K</Tag>
+    <Tag>IPS</Tag>
+  </Product>
+  <Product>
+    <Id>73</Id>
+    <Name>Bluetooth Kulaklık</Name>
+    <Description>Gürültü engelleme özellikli, kablosuz, uzun pil ömürlü bluetooth kulaklık.</Description>
+    <Price>2199.0</Price>
+    <CategoryId>3</CategoryId>
+    <ImageUrl>/images/bluetooth-headphones.jpg</ImageUrl>
+    <StockQuantity>60</StockQuantity>
+    <Discount>0.15</Discount>
+    <Tag>Kulaklık</Tag>
+    <Tag>Bluetooth</Tag>
+    <Tag>GürültüEngelleme</Tag>
+  </Product>
+  <Product>
+    <Id>74</Id>
+    <Name>Grafik Tablet</Name>
+    <Description>Dijital çizim için 8192 basınç seviyeli, USB bağlantılı, hassas kontrol sağlayan grafik tablet.</Description>
+    <Price>3299.0</Price>
+    <CategoryId>4</CategoryId>
+    <ImageUrl>/images/graphic-tablet.jpg</ImageUrl>
+    <StockQuantity>30</StockQuantity>
+    <Discount>0.12</Discount>
+    <Tag>Tablet</Tag>
+    <Tag>Çizim</Tag>
+    <Tag>DijitalSanat</Tag>
+  </Product>
+  <Product>
+    <Id>75</Id>
+    <Name>Profesyonel Tripod</Name>
+    <Description>Alüminyum gövdeli, ayarlanabilir yükseklikli, DSLR kameralar için uygun tripod.</Description>
+    <Price>849.9</Price>
+    <CategoryId>5</CategoryId>
+    <ImageUrl>/images/tripod.jpg</ImageUrl>
+    <StockQuantity>50</StockQuantity>
+    <Discount>0.08</Discount>
+    <Tag>Tripod</Tag>
+    <Tag>Kamera</Tag>
+    <Tag>Fotoğraf</Tag>
+  </Product>
+  <Product>
+    <Id>76</Id>
+    <Name>SSD 1TB NVMe</Name>
+    <Description>Yüksek hızda veri aktarımı sağlayan 1TB kapasiteli PCIe NVMe SSD disk.</Description>
+    <Price>2999.0</Price>
+    <CategoryId>6</CategoryId>
+    <ImageUrl>/images/ssd-nvme.jpg</ImageUrl>
+    <StockQuantity>75</StockQuantity>
+    <Discount>0.13</Discount>
+    <Tag>SSD</Tag>
+    <Tag>Depolama</Tag>
+    <Tag>NVMe</Tag>
+  </Product>
+  <Product>
+    <Id>77</Id>
+    <Name>Oyuncu Mouse</Name>
+    <Description>Hassas DPI ayarı, ergonomik tasarım, RGB ışıklandırmalı kablolu oyuncu mouse'u.</Description>
+    <Price>699.0</Price>
+    <CategoryId>1</CategoryId>
+    <ImageUrl>/images/gaming-mouse.jpg</ImageUrl>
+    <StockQuantity>80</StockQuantity>
+    <Discount>0.1</Discount>
+    <Tag>Mouse</Tag>
+    <Tag>Oyuncu</Tag>
+    <Tag>RGB</Tag>
+  </Product>
+  <Product>
+    <Id>78</Id>
+    <Name>Webcam 1080p</Name>
+    <Description>Full HD 1080p çözünürlükte, otomatik odaklama ve mikrofonlu webcam.</Description>
+    <Price>1299.0</Price>
+    <CategoryId>3</CategoryId>
+    <ImageUrl>/images/webcam.jpg</ImageUrl>
+    <StockQuantity>35</StockQuantity>
+    <Discount>0.09</Discount>
+    <Tag>Webcam</Tag>
+    <Tag>HD</Tag>
+    <Tag>Video</Tag>
+  </Product>
+  <Product>
+    <Id>79</Id>
+    <Name>Kablosuz Şarj Cihazı</Name>
+    <Description>Qi uyumlu cihazlarla hızlı kablosuz şarj imkanı sunar.</Description>
+    <Price>599.5</Price>
+    <CategoryId>6</CategoryId>
+    <ImageUrl>/images/wireless-charger.jpg</ImageUrl>
+    <StockQuantity>70</StockQuantity>
+    <Discount>0.1</Discount>
+    <Tag>Şarj</Tag>
+    <Tag>Kablosuz</Tag>
+    <Tag>Aksesuar</Tag>
+  </Product>
+  <Product>
+    <Id>80</Id>
+    <Name>Akıllı Saat</Name>
+    <Description>Adım sayar, nabız ölçer ve bildirim özellikli Bluetooth destekli akıllı saat.</Description>
+    <Price>1849.0</Price>
+    <CategoryId>5</CategoryId>
+    <ImageUrl>/images/smartwatch.jpg</ImageUrl>
+    <StockQuantity>45</StockQuantity>
+    <Discount>0.14</Discount>
+    <Tag>Saat</Tag>
+    <Tag>Akıllı</Tag>
+    <Tag>Bluetooth</Tag>
+  </Product>
+  <Product>
+    <Id>81</Id>
+    <Name>Taşınabilir Bluetooth Hoparlör</Name>
+    <Description>Su geçirmez, taşınabilir, güçlü ses çıkışlı Bluetooth hoparlör.</Description>
+    <Price>1149.0</Price>
+    <CategoryId>3</CategoryId>
+    <ImageUrl>/images/bluetooth-speaker.jpg</ImageUrl>
+    <StockQuantity>55</StockQuantity>
+    <Discount>0.11</Discount>
+    <Tag>Hoparlör</Tag>
+    <Tag>Bluetooth</Tag>
+    <Tag>Müzik</Tag>
+  </Product>
+  <Product>
+    <Id>82</Id>
+    <Name>Laptop Soğutucu Stand</Name>
+    <Description>Ayarlanabilir yükseklikli, çift fanlı, USB bağlantılı laptop soğutucu.</Description>
+    <Price>459.9</Price>
+    <CategoryId>2</CategoryId>
+    <ImageUrl>/images/laptop-cooler.jpg</ImageUrl>
+    <StockQuantity>38</StockQuantity>
+    <Discount>0.06</Discount>
+    <Tag>Soğutucu</Tag>
+    <Tag>Laptop</Tag>
+    <Tag>Fan</Tag>
+  </Product>
+  <Product>
+    <Id>83</Id>
+    <Name>Ergonomik Ofis Sandalyesi</Name>
+    <Description>Bel destekli, ayarlanabilir kolçaklı ve yükseklik ayarlı konforlu ofis sandalyesi.</Description>
+    <Price>3499.9</Price>
+    <CategoryId>7</CategoryId>
+    <ImageUrl>/images/office-chair.jpg</ImageUrl>
+    <StockQuantity>20</StockQuantity>
+    <Discount>0.1</Discount>
+    <Tag>Sandalye</Tag>
+    <Tag>Ofis</Tag>
+    <Tag>Ergonomik</Tag>
+  </Product>
+  <Product>
+    <Id>84</Id>
+    <Name>Wi-Fi Router 5GHz</Name>
+    <Description>Yüksek hızlı, çift bant destekli, 5GHz kablosuz internet yönlendirici.</Description>
+    <Price>1599.0</Price>
+    <CategoryId>6</CategoryId>
+    <ImageUrl>/images/wifi-router.jpg</ImageUrl>
+    <StockQuantity>33</StockQuantity>
+    <Discount>0.09</Discount>
+    <Tag>WiFi</Tag>
+    <Tag>Router</Tag>
+    <Tag>Ağ</Tag>
+  </Product>
+  <Product>
+    <Id>85</Id>
+    <Name>Taşınabilir Hard Disk 2TB</Name>
+    <Description>USB 3.0 bağlantılı, yüksek kapasiteli taşınabilir harici disk.</Description>
+    <Price>2399.0</Price>
+    <CategoryId>6</CategoryId>
+    <ImageUrl>/images/external-hdd.jpg</ImageUrl>
+    <StockQuantity>42</StockQuantity>
+    <Discount>0.13</Discount>
+    <Tag>HardDisk</Tag>
+    <Tag>Harici</Tag>
+    <Tag>Depolama</Tag>
+  </Product>
+  <Product>
+    <Id>86</Id>
+    <Name>Akıllı LED Ampul</Name>
+    <Description>Wi-Fi kontrollü, renk değiştirebilen ve zamanlayıcı özellikli akıllı ampul.</Description>
+    <Price>289.9</Price>
+    <CategoryId>8</CategoryId>
+    <ImageUrl>/images/smart-bulb.jpg</ImageUrl>
+    <StockQuantity>100</StockQuantity>
+    <Discount>0.18</Discount>
+    <Tag>Ampul</Tag>
+    <Tag>Akıllı</Tag>
+    <Tag>LED</Tag>
+  </Product>
+  <Product>
+    <Id>87</Id>
+    <Name>VR Gözlük</Name>
+    <Description>Gerçekçi sanal gerçeklik deneyimi sunan, geniş görüş açılı VR gözlük.</Description>
+    <Price>4799.0</Price>
+    <CategoryId>9</CategoryId>
+    <ImageUrl>/images/vr-headset.jpg</ImageUrl>
+    <StockQuantity>28</StockQuantity>
+    <Discount>0.1</Discount>
+    <Tag>VR</Tag>
+    <Tag>Gözlük</Tag>
+    <Tag>SanalGerçeklik</Tag>
+  </Product>
+  <Product>
+    <Id>88</Id>
+    <Name>USB-C Çoklayıcı Hub</Name>
+    <Description>HDMI, USB 3.0 ve SD kart okuyucu destekli 6 portlu USB-C çoklayıcı.</Description>
+    <Price>749.00</Price>
+    <CategoryId>6</CategoryId>
+    <ImageUrl>/images/usb-c-hub.jpg</ImageUrl>
+    <StockQuantity>60</StockQuantity>
+    <Discount>0.08</Discount>
+    <Tag>USB</Tag>
+    <Tag>Hub</Tag>
+    <Tag>Çoklayıcı</Tag>
+  </Product>
+  <Product>
+    <Id>89</Id>
+    <Name>Oyuncu Koltuğu</Name>
+    <Description>Ergonomik tasarımlı, sırt ve boyun destekli, yüksekliği ayarlanabilir oyuncu koltuğu.</Description>
+    <Price>5699.00</Price>
+    <CategoryId>7</CategoryId>
+    <ImageUrl>/images/gaming-chair.jpg</ImageUrl>
+    <StockQuantity>15</StockQuantity>
+    <Discount>0.12</Discount>
+    <Tag>Koltuk</Tag>
+    <Tag>Oyuncu</Tag>
+    <Tag>Ergonomik</Tag>
+  </Product>
+  <Product>
+    <Id>90</Id>
+    <Name>Akıllı Ev Güvenlik Kamerası</Name>
+    <Description>Wi-Fi bağlantılı, hareket algılayıcı, gece görüş özellikli güvenlik kamerası.</Description>
+    <Price>1349.00</Price>
+    <CategoryId>8</CategoryId>
+    <ImageUrl>/images/security-camera.jpg</ImageUrl>
+    <StockQuantity>48</StockQuantity>
+    <Discount>0.09</Discount>
+    <Tag>Kamera</Tag>
+    <Tag>Güvenlik</Tag>
+    <Tag>AkıllıEv</Tag>
+  </Product>
+  <Product>
+    <Id>91</Id>
+    <Name>Taşınabilir Projektör</Name>
+    <Description>HD çözünürlükte, HDMI destekli, taşınabilir LED projektör.</Description>
+    <Price>3249.00</Price>
+    <CategoryId>2</CategoryId>
+    <ImageUrl>/images/portable-projector.jpg</ImageUrl>
+    <StockQuantity>22</StockQuantity>
+    <Discount>0.1</Discount>
+    <Tag>Projektör</Tag>
+    <Tag>HD</Tag>
+    <Tag>Taşınabilir</Tag>
+  </Product>
+  <Product>
+    <Id>92</Id>
+    <Name>Kablosuz Mekanik Klavye</Name>
+    <Description>Bluetooth destekli, RGB aydınlatmalı, uzun batarya ömürlü mekanik klavye.</Description>
+    <Price>1699.00</Price>
+    <CategoryId>1</CategoryId>
+    <ImageUrl>/images/wireless-mechanical-keyboard.jpg</ImageUrl>
+    <StockQuantity>35</StockQuantity>
+    <Discount>0.1</Discount>
+    <Tag>Klavye</Tag>
+    <Tag>Kablosuz</Tag>
+    <Tag>Mekanik</Tag>
+  </Product>
+  <Product>
+    <Id>93</Id>
+    <Name>Akıllı Priz</Name>
+    <Description>Uzaktan kontrol edilebilir, zamanlayıcı destekli, enerji izleme özellikli Wi-Fi priz.</Description>
+    <Price>379.00</Price>
+    <CategoryId>8</CategoryId>
+    <ImageUrl>/images/smart-plug.jpg</ImageUrl>
+    <StockQuantity>90</StockQuantity>
+    <Discount>0.15</Discount>
+    <Tag>Priz</Tag>
+    <Tag>AkıllıEv</Tag>
+    <Tag>Enerji</Tag>
+  </Product>
+  <Product>
+    <Id>94</Id>
+    <Name>LED Işıklı Masa Lambası</Name>
+    <Description>Dokunmatik kontrollü, göz yormayan ışık, USB şarj portlu masa lambası.</Description>
+    <Price>459.90</Price>
+    <CategoryId>7</CategoryId>
+    <ImageUrl>/images/desk-lamp.jpg</ImageUrl>
+    <StockQuantity>70</StockQuantity>
+    <Discount>0.1</Discount>
+    <Tag>Lamba</Tag>
+    <Tag>Masa</Tag>
+    <Tag>LED</Tag>
+  </Product>
+  <Product>
+    <Id>95</Id>
+    <Name>Akıllı Tartı</Name>
+    <Description>Bluetooth bağlantılı, vücut analiz özellikli dijital baskül.</Description>
+    <Price>599.00</Price>
+    <CategoryId>9</CategoryId>
+    <ImageUrl>/images/smart-scale.jpg</ImageUrl>
+    <StockQuantity>50</StockQuantity>
+    <Discount>0.2</Discount>
+    <Tag>Tartı</Tag>
+    <Tag>Sağlık</Tag>
+    <Tag>Bluetooth</Tag>
+  </Product>
+  <Product>
+    <Id>96</Id>
+    <Name>USB Mikrofon Standı</Name>
+    <Description>Ayarlanabilir boyutlu, masaüstü kullanım için ideal, sağlam mikrofon standı.</Description>
+    <Price>249.90</Price>
+    <CategoryId>3</CategoryId>
+    <ImageUrl>/images/mic-stand.jpg</ImageUrl>
+    <StockQuantity>40</StockQuantity>
+    <Discount>0.07</Discount>
+    <Tag>Mikrofon</Tag>
+    <Tag>Stand</Tag>
+    <Tag>Aksesuar</Tag>
+  </Product>
+  <Product>
+    <Id>97</Id>
+    <Name>Mini USB Fan</Name>
+    <Description>Taşınabilir, sessiz çalışma özellikli, USB üzerinden çalışan masaüstü fan.</Description>
+    <Price>189.00</Price>
+    <CategoryId>7</CategoryId>
+    <ImageUrl>/images/usb-fan.jpg</ImageUrl>
+    <StockQuantity>120</StockQuantity>
+    <Discount>0.05</Discount>
+    <Tag>Fan</Tag>
+    <Tag>USB</Tag>
+    <Tag>Mini</Tag>
+  </Product>
+  <Product>
+    <Id>98</Id>
+    <Name>108 Tuşlu Mekanik Klavye</Name>
+    <Description>Kırmızı switch’li, tam boy, RGB aydınlatmalı oyuncu klavyesi.</Description>
+    <Price>1399.00</Price>
+    <CategoryId>1</CategoryId>
+    <ImageUrl>/images/mechanical-keyboard.jpg</ImageUrl>
+    <StockQuantity>45</StockQuantity>
+    <Discount>0.1</Discount>
+    <Tag>Klavye</Tag>
+    <Tag>RGB</Tag>
+    <Tag>Mekanik</Tag>
+  </Product>
+  <Product>
+    <Id>99</Id>
+    <Name>Bluetooth Gamepad</Name>
+    <Description>Windows, Android ve iOS destekli kablosuz oyun kumandası.</Description>
+    <Price>899.00</Price>
+    <CategoryId>9</CategoryId>
+    <ImageUrl>/images/bluetooth-gamepad.jpg</ImageUrl>
+    <StockQuantity>60</StockQuantity>
+    <Discount>0.1</Discount>
+    <Tag>Gamepad</Tag>
+    <Tag>Bluetooth</Tag>
+    <Tag>Oyun</Tag>
+  </Product>
+  <Product>
+    <Id>100</Id>
+    <Name>Akıllı Termos</Name>
+    <Description>Dijital sıcaklık göstergeli, paslanmaz çelikten akıllı termos.</Description>
+    <Price>299.90</Price>
+    <CategoryId>8</CategoryId>
+    <ImageUrl>/images/smart-thermos.jpg</ImageUrl>
+    <StockQuantity>85</StockQuantity>
+    <Discount>0.09</Discount>
+    <Tag>Termos</Tag>
+    <Tag>Akıllı</Tag>
+    <Tag>Dijital</Tag>
+  </Product>
+  <Product>
+    <Id>101</Id>
+    <Name>USB LED Şerit Işık</Name>
+    <Description>Uzaktan kumandalı, renk değiştirilebilir, TV arkası aydınlatma için ideal.</Description>
+    <Price>219.90</Price>
+    <CategoryId>7</CategoryId>
+    <ImageUrl>/images/led-strip.jpg</ImageUrl>
+    <StockQuantity>110</StockQuantity>
+    <Discount>0.11</Discount>
+    <Tag>LED</Tag>
+    <Tag>Şerit</Tag>
+    <Tag>Aydınlatma</Tag>
+  </Product>
+  <Product>
+    <Id>102</Id>
+    <Name>HDMI - VGA Dönüştürücü</Name>
+    <Description>Ses çıkışlı, yüksek uyumluluk sağlayan HDMI'dan VGA'ya dönüştürücü adaptör.</Description>
+    <Price>149.00</Price>
+    <CategoryId>6</CategoryId>
+    <ImageUrl>/images/hdmi-vga.jpg</ImageUrl>
+    <StockQuantity>75</StockQuantity>
+    <Discount>0.06</Discount>
+    <Tag>HDMI</Tag>
+    <Tag>VGA</Tag>
+    <Tag>Dönüştürücü</Tag>
+  </Product>
+  <Product>
+    <Id>103</Id>
+    <Name>Type-C Hızlı Şarj Kablosu</Name>
+    <Description>1.5 metre uzunluğunda, 60W hızlı şarj destekli dayanıklı örgülü kablo.</Description>
+    <Price>129.90</Price>
+    <CategoryId>6</CategoryId>
+    <ImageUrl>/images/type-c-cable.jpg</ImageUrl>
+    <StockQuantity>200</StockQuantity>
+    <Discount>0.1</Discount>
+    <Tag>Kablo</Tag>
+    <Tag>Type-C</Tag>
+    <Tag>Şarj</Tag>
+  </Product>
+  <Product>
+    <Id>104</Id>
+    <Name>Yüz Tanıma Özellikli Webcam</Name>
+    <Description>Full HD görüntü kalitesi, otomatik yüz tanıma ve düşük ışık optimizasyonu.</Description>
+    <Price>1599.00</Price>
+    <CategoryId>3</CategoryId>
+    <ImageUrl>/images/facial-webcam.jpg</ImageUrl>
+    <StockQuantity>30</StockQuantity>
+    <Discount>0.12</Discount>
+    <Tag>Webcam</Tag>
+    <Tag>YüzTanıma</Tag>
+    <Tag>HD</Tag>
+  </Product>
+  <Product>
+    <Id>105</Id>
+    <Name>Mini Bluetooth Klavye</Name>
+    <Description>Tablet ve telefonlarla uyumlu, taşınabilir, kablosuz mini klavye.</Description>
+    <Price>349.90</Price>
+    <CategoryId>1</CategoryId>
+    <ImageUrl>/images/mini-bluetooth-keyboard.jpg</ImageUrl>
+    <StockQuantity>100</StockQuantity>
+    <Discount>0.09</Discount>
+    <Tag>Klavye</Tag>
+    <Tag>Mini</Tag>
+    <Tag>Kablosuz</Tag>
+  </Product>
+  <Product>
+    <Id>106</Id>
+    <Name>Profesyonel Video Işığı</Name>
+    <Description>Ayarlanabilir parlaklık ve renk sıcaklığına sahip LED video ışığı seti.</Description>
+    <Price>999.00</Price>
+    <CategoryId>7</CategoryId>
+    <ImageUrl>/images/video-light.jpg</ImageUrl>
+    <StockQuantity>25</StockQuantity>
+    <Discount>0.1</Discount>
+    <Tag>Işık</Tag>
+    <Tag>LED</Tag>
+    <Tag>Video</Tag>
+  </Product>
+  <Product>
+    <Id>107</Id>
+    <Name>Gelişmiş Oyun Mousepad</Name>
+    <Description>Kayarmaz tabanlı, RGB aydınlatmalı, geniş yüzeyli oyun mousepad'i.</Description>
+    <Price>329.00</Price>
+    <CategoryId>1</CategoryId>
+    <ImageUrl>/images/gaming-mousepad.jpg</ImageUrl>
+    <StockQuantity>70</StockQuantity>
+    <Discount>0.1</Discount>
+    <Tag>Mousepad</Tag>
+    <Tag>RGB</Tag>
+    <Tag>Oyuncu</Tag>
+  </Product>
+  <Product>
+    <Id>108</Id>
+    <Name>Taşınabilir SSD 512GB</Name>
+    <Description>USB 3.2 destekli, kompakt tasarımlı, yüksek hızlı taşınabilir SSD disk.</Description>
+    <Price>1799.00</Price>
+    <CategoryId>6</CategoryId>
+    <ImageUrl>/images/portable-ssd.jpg</ImageUrl>
+    <StockQuantity>55</StockQuantity>
+    <Discount>0.13</Discount>
+    <Tag>SSD</Tag>
+    <Tag>Depolama</Tag>
+    <Tag>Taşınabilir</Tag>
+  </Product>
+  <Product>
+    <Id>109</Id>
+    <Name>4K Aksiyon Kamerası</Name>
+    <Description>Su geçirmez kılıf, geniş açılı lens, 4K video kayıt özellikli spor kamerası.</Description>
+    <Price>2599.00</Price>
+    <CategoryId>3</CategoryId>
+    <ImageUrl>/images/action-camera.jpg</ImageUrl>
+    <StockQuantity>40</StockQuantity>
+    <Discount>0.15</Discount>
+    <Tag>Kamera</Tag>
+    <Tag>4K</Tag>
+    <Tag>Spor</Tag>
+  </Product>
+  <Product>
+    <Id>110</Id>
+    <Name>Bluetooth Hoparlör Alarm Saat</Name>
+    <Description>Çift işlevli, Bluetooth bağlantılı, dijital saatli taşınabilir hoparlör.</Description>
+    <Price>649.00</Price>
+    <CategoryId>8</CategoryId>
+    <ImageUrl>/images/speaker-clock.jpg</ImageUrl>
+    <StockQuantity>90</StockQuantity>
+    <Discount>0.11</Discount>
+    <Tag>Hoparlör</Tag>
+    <Tag>Saat</Tag>
+    <Tag>Bluetooth</Tag>
+  </Product>
+  <Product>
+    <Id>111</Id>
+    <Name>USB Mikroskop</Name>
+    <Description>200x büyütme kapasitesine sahip, bilgisayar bağlantılı dijital mikroskop.</Description>
+    <Price>849.90</Price>
+    <CategoryId>9</CategoryId>
+    <ImageUrl>/images/usb-microscope.jpg</ImageUrl>
+    <StockQuantity>30</StockQuantity>
+    <Discount>0.1</Discount>
+    <Tag>Mikroskop</Tag>
+    <Tag>Dijital</Tag>
+    <Tag>USB</Tag>
+  </Product>
+  <Product>
+    <Id>112</Id>
+    <Name>RGB Işıklı Kulaklık Standı</Name>
+    <Description>Kulaklıklar için USB çıkışlı, RGB ışık efektli şık stand.</Description>
+    <Price>449.00</Price>
+    <CategoryId>1</CategoryId>
+    <ImageUrl>/images/headset-stand.jpg</ImageUrl>
+    <StockQuantity>65</StockQuantity>
+    <Discount>0.1</Discount>
+    <Tag>Kulaklık</Tag>
+    <Tag>Stand</Tag>
+    <Tag>RGB</Tag>
+  </Product>
+  <Product>
+    <Id>113</Id>
+    <Name>Katlanabilir Dizüstü Sehpası</Name>
+    <Description>Yükseklik ayarlı, fanlı, katlanabilir laptop standı ve çalışma masası.</Description>
+    <Price>599.00</Price>
+    <CategoryId>7</CategoryId>
+    <ImageUrl>/images/laptop-stand.jpg</ImageUrl>
+    <StockQuantity>80</StockQuantity>
+    <Discount>0.07</Discount>
+    <Tag>Stand</Tag>
+    <Tag>Laptop</Tag>
+    <Tag>Sehpa</Tag>
+  </Product>
+  <Product>
+    <Id>114</Id>
+    <Name>Akıllı Gece Lambası</Name>
+    <Description>Hareket sensörlü, USB şarjlı, duvara monte edilebilir gece lambası.</Description>
+    <Price>199.00</Price>
+    <CategoryId>8</CategoryId>
+    <ImageUrl>/images/night-light.jpg</ImageUrl>
+    <StockQuantity>120</StockQuantity>
+    <Discount>0.08</Discount>
+    <Tag>Lamba</Tag>
+    <Tag>Gece</Tag>
+    <Tag>Akıllı</Tag>
+  </Product>
+  <Product>
+    <Id>115</Id>
+    <Name>Giyilebilir El Isıtıcı</Name>
+    <Description>Şarj edilebilir, bileklik formunda, soğuk havalarda taşınabilir el ısıtıcı.</Description>
+    <Price>349.90</Price>
+    <CategoryId>9</CategoryId>
+    <ImageUrl>/images/hand-warmer.jpg</ImageUrl>
+    <StockQuantity>70</StockQuantity>
+    <Discount>0.1</Discount>
+    <Tag>Isıtıcı</Tag>
+    <Tag>El</Tag>
+    <Tag>Giyilebilir</Tag>
+  </Product>
+  <Product>
+    <Id>116</Id>
+    <Name>Grafen Isıtıcılı Mousepad</Name>
+    <Description>USB ile çalışan, soğuk havalarda el ısıtma özelliği olan mousepad.</Description>
+    <Price>289.90</Price>
+    <CategoryId>7</CategoryId>
+    <ImageUrl>/images/heated-mousepad.jpg</ImageUrl>
+    <StockQuantity>55</StockQuantity>
+    <Discount>0.09</Discount>
+    <Tag>Mousepad</Tag>
+    <Tag>Isıtıcı</Tag>
+    <Tag>USB</Tag>
+  </Product>
+  <Product>
+    <Id>117</Id>
+    <Name>USB Şarjlı Masa Süpürgesi</Name>
+    <Description>Küçük parçacıkları kolayca temizleyen, taşınabilir mini masa süpürgesi.</Description>
+    <Price>179.00</Price>
+    <CategoryId>8</CategoryId>
+    <ImageUrl>/images/table-vacuum.jpg</ImageUrl>
+    <StockQuantity>100</StockQuantity>
+    <Discount>0.1</Discount>
+    <Tag>Süpürge</Tag>
+    <Tag>Masa</Tag>
+    <Tag>USB</Tag>
+  </Product>
+</Products>

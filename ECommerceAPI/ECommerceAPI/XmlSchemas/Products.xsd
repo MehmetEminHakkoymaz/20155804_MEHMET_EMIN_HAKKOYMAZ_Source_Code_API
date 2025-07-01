@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+  <!-- Tüm ürünleri içeren kök eleman -->
+  <xs:element name="Products">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="Product" type="ProductType" minOccurs="0" maxOccurs="unbounded"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+  <!-- Ürün tanımı -->
+  <xs:complexType name="ProductType">
+    <xs:sequence>
+      <!-- Zorunlu alanlar - Gelişmiş kısıtlamalarla -->
+      <xs:element name="Id" type="PositiveInteger"/>
+      <xs:element name="Name" type="ProductNameType"/>
+      <xs:element name="Description" type="ProductDescriptionType"/>
+      <xs:element name="Price" type="PriceType"/>
+      <xs:element name="CategoryId" type="CategoryIdType"/>
+      <xs:element name="ImageUrl" type="ImageUrlType"/>
+      <xs:element name="StockQuantity" type="StockQuantityType"/>
+
+      <!-- İsteğe bağlı alanlar -->
+      <xs:element name="Discount" type="DiscountType" minOccurs="0"/>
+      <xs:element name="Tag" type="TagType" minOccurs="0" maxOccurs="unbounded"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <!-- Yeniden kullanılabilir veri tipleri -->
+  <xs:simpleType name="PositiveInteger">
+    <xs:restriction base="xs:int">
+      <xs:minExclusive value="0"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <xs:simpleType name="ProductNameType">
+    <xs:restriction base="xs:string">
+      <xs:minLength value="2"/>
+      <xs:maxLength value="50"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <xs:simpleType name="ProductDescriptionType">
+    <xs:restriction base="xs:string">
+      <xs:minLength value="10"/>
+      <xs:maxLength value="1000"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <xs:simpleType name="PriceType">
+    <xs:restriction base="xs:decimal">
+      <xs:minExclusive value="0"/>
+      <xs:maxInclusive value="100000"/>
+      <xs:fractionDigits value="2"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <xs:simpleType name="CategoryIdType">
+    <xs:restriction base="xs:int">
+      <xs:enumeration value="1"/>
+      <xs:enumeration value="2"/>
+      <xs:enumeration value="3"/>
+      <xs:enumeration value="4"/>
+      <xs:enumeration value="5"/>
+      <xs:enumeration value="6"/>
+      <xs:enumeration value="7"/>
+      <xs:enumeration value="8"/>
+      <xs:enumeration value="9"/>
+      <xs:enumeration value="10"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <xs:simpleType name="ImageUrlType">
+    <xs:restriction base="xs:string">
+      <xs:pattern value="(/images/)[a-zA-Z0-9_-]+\.(jpg|jpeg|png|gif)"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <xs:simpleType name="StockQuantityType">
+    <xs:restriction base="xs:int">
+      <xs:minInclusive value="0"/>
+      <xs:maxInclusive value="10000"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <xs:simpleType name="DiscountType">
+    <xs:restriction base="xs:decimal">
+      <xs:minInclusive value="0"/>
+      <xs:maxInclusive value="0.99"/>
+      <xs:fractionDigits value="2"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <xs:simpleType name="TagType">
+    <xs:restriction base="xs:string">
+      <xs:minLength value="2"/>
+      <xs:maxLength value="20"/>
+    </xs:restriction>
+  </xs:simpleType>
+</xs:schema>
